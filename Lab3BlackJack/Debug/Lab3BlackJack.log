@@ -1,0 +1,7 @@
+﻿  Lab3BlackJack.cpp
+C:\Users\camga\Downloads\Dat Old Class Code\Comp Sci. 1\Labs\Lab3BlackJack\Lab3BlackJack.cpp(37,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\camga\Downloads\Dat Old Class Code\Comp Sci. 1\Labs\Lab3BlackJack\Lab3BlackJack.cpp(75,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\camga\Downloads\Dat Old Class Code\Comp Sci. 1\Labs\Lab3BlackJack\Lab3BlackJack.cpp(75,20): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\camga\Downloads\Dat Old Class Code\Comp Sci. 1\Labs\Lab3BlackJack\Lab3BlackJack.cpp(161,6): warning C4101: 'x': unreferenced local variable
+C:\Users\camga\Downloads\Dat Old Class Code\Comp Sci. 1\Labs\Lab3BlackJack\Lab3BlackJack.cpp(227,6): warning C4101: 'i': unreferenced local variable
+  Lab3BlackJack.vcxproj -> C:\Users\camga\Downloads\Dat Old Class Code\Comp Sci. 1\Labs\Lab3BlackJack\Debug\Lab3BlackJack.exe
